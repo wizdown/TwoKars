@@ -1,2 +1,2 @@
 # TwoKars  
-A naive implementation of 2 cars game
+A native implementation of 2 cars game
